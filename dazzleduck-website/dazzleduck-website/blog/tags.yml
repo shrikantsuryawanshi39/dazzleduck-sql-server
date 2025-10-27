@@ -1,0 +1,29 @@
+announcement:
+  label: Announcements
+  permalink: /blog/tags/announcement
+  description: Official release news and product updates.
+
+architecture:
+  label: Architecture
+  permalink: /blog/tags/architecture
+  description: Learn about the design and internals of Dazzle Duck SQL Server.
+
+extensions:
+  label: Extensions
+  permalink: /blog/tags/extensions
+  description: Build and extend Dazzle Duck with custom plugins and connectors.
+
+roadmap:
+  label: Roadmap
+  permalink: /blog/tags/roadmap
+  description: Our vision, future plans, and open-source milestones.
+
+community:
+  label: Community
+  permalink: /blog/tags/community
+  description: Stories, contributions, and highlights from our users.
+
+sql:
+  label: SQL
+  permalink: /blog/tags/sql
+  description: Query optimization, analytics, and data best practices.
